@@ -8,6 +8,8 @@ import { HomeComponent } from './views/pages/home/home.component';
 import { AboutComponent } from './views/pages/about/about.component';
 import { ContactComponent } from './views/pages/contact/contact.component';
 import { FooterComponent } from './views/components/footer/footer.component';
+import { HttpClientModule } from '@angular/common/http';
+import { AppService } from './app.service';
 
 @NgModule({
   declarations: [
@@ -20,10 +22,11 @@ import { FooterComponent } from './views/components/footer/footer.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   schemas: [ NO_ERRORS_SCHEMA, CUSTOM_ELEMENTS_SCHEMA ],
-  providers: [],
+  providers: [AppService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

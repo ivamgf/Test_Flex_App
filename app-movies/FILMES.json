@@ -1,15 +1,13 @@
 {
-  "filme-1": [
-    {
-      "nome": "Toy Story 4",
+  "filmes": 
+    [
+    {"nome": "Toy Story 4",
     "ano": "2019",
     "diretor": "Josh Cooley",
     "gênero": "Animação, Aventura, Comédia, Família, Fantasia",
     "descrição": "Quando um novo brinquedo chamado garfinho se une a Woody e sua turma, uma viagem ao lado de velhos e novos amigos revela o quão grande o mundo pode ser para um brinquedo.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-2": [
+    },
     {
     "nome": "Avengers: Endgame",
     "ano": "2019",
@@ -17,9 +15,7 @@
     "gênero": "Ação, Aventura, Ficção Científica",
     "descrição": "Após os eventos devastadores de Avengers: Infinity War (2018), o universo está em ruínas. Com a ajuda de aliados remanescentes, os Vingadores se reúnem novamente para desfazer as ações de Thanos e restaurar a ordem no universo.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-3": [
+    },
     {
     "nome": "Avengers: Infinity War",
     "ano": "2018",
@@ -27,9 +23,7 @@
     "gênero": "Ação, Aventura, Ficção Científica",
     "descrição": "Os Vingadores e seus aliados devem estar dispostos a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que sua explosão de devastação e ruína ponha fim ao universo.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-4": [
+    },
     {
     "nome": "Avengers: Age of Ultron",
     "ano": "2015",
@@ -37,9 +31,7 @@
     "gênero": "Ação, Aventura, Ficção Científica",
     "descrição": "Quando Tony Stark e Bruce Banner tentam iniciar um pacífico programa de manutenção da paz chamado Ultron, as coisas dão muito errado e cabe aos heróis mais poderosos da Terra impedir que o vilão Ultron promulgue seu plano terrível.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-5": [
+    },
     {
     "nome": "The Avengers",
     "ano": "2012",
@@ -47,9 +39,7 @@
     "gênero": "Ação, Aventura, Ficção Científica",
     "descrição": "Os heróis mais poderosos da Terra devem se unir e aprender a lutar em equipe, se quiserem impedir que o travesso Loki e seu exército alienígena escravizem a humanidade.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-6": [
+    },
     {
     "nome": "Pets 2: A Vida Secreta dos Bichos",
     "ano": "2019",
@@ -57,9 +47,7 @@
     "gênero": "Animação, Aventura, Comédia, Família",
     "descrição": "Continuing the story of Max and his pet friends, following their secret lives after their owners leave them for work or school each day.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BMzdlMWQzZmItMDA5Ny00MGFjLTk0MDAtYjgzMmMyNTEwMzdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-7": [
+    },
     {
     "nome": "O Senhor dos Anéis: A Sociedade do Anél",
     "ano": "2001",
@@ -67,9 +55,7 @@
     "gênero": "Aventura, Drama, Fantasia",
     "descrição": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média do Lorde das Trevas Sauron.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-8":  [
+    },
     {
     "nome": "O Hobbit: Uma Jornada Inesperada",
     "ano": "2012",
@@ -77,9 +63,7 @@
     "gênero": "Aventura, Família, Fantasia",
     "descrição": "Um hobbit relutante, Bilbo Baggins, parte para a Montanha Solitária com um animado grupo de anões para recuperar sua casa na montanha, e o ouro dentro dela do dragão Smaug.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-9": [
+    },
     {
     "nome": "Harry Potter e a Pedra Filosofal",
     "ano": "2001",
@@ -87,9 +71,7 @@
     "gênero": "Aventura, Família, Fantasia",
     "descrição": "Um menino órfão se matricula em uma escola de magia, onde ele aprende a verdade sobre si mesmo, sua família e o terrível mal que assombra o mundo mágico.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-10": [
+    },
     {
     "nome": "Godzilla",
     "ano": "2014",
@@ -97,9 +79,7 @@
     "gênero": "Ação, Aventura, Ficção Científica, Suspense",
     "descrição": "O mundo é assolado pelo aparecimento de criaturas monstruosas, mas uma delas pode ser a única que pode salvar a humanidade.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-11": [
+    },
     {
     "nome": "Godzilla II: Rei dos Monstros",
     "ano": "2019",
@@ -107,9 +87,7 @@
     "gênero": "Ação, Aventura, Fantasia, Ficção Científica",
     "descrição": "A agência de cripto-zoológico Monarch enfrenta uma bateria de monstros do tamanho de Deus, incluindo o poderoso Godzilla, que colide com Mothra, Rodan e seu maior inimigo, o rei Ghidorah de três cabeças.",
     "pôster": "https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
-    }    
-  ],
-  "filme-12": [
+    },
     {
     "nome": "Star Wars: Os Últimos Jedi",
     "ano": "2017",
@@ -120,4 +98,3 @@
     }    
   ]
 }
-

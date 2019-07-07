@@ -4,13 +4,9 @@ section {
 .style-group{
   margin: 5%;
   margin-left: 10%;
-}
-.style-accordion{
-  margin-top: 10%;
-  width: 25%;
+  width: 80%;
 }
 .style-card-text {
-  font-weight: bold;
   font-size: 12px;
 }
 .style-title {
@@ -20,6 +16,27 @@ section {
   text-align: center;
   font-size: 12px;
 }
+.style-card {
+  position: relative;
+  display: inline-block;
+  float: left;
+  margin-right: 1%;
+}
+.style-img-card {
+  width: 100%;
+}
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+  .style-text{
+    font-size: 10px;
+    margin-top: 2%;
+  }
+  .media{
+    display: block;
+  }
+  .style-card {
+    width: 25%;
+  }
+}
 @media only screen and (max-width: 768px) and (min-width: 576px) {
   .style-text{
     font-size: 10px;
@@ -28,9 +45,8 @@ section {
   .media{
     display: block;
   }
-  .style-accordion{
-    margin-top: 10%;
-    width: 100%;
+  .style-card {
+    width: 50%;
   }
 }
 @media only screen and (max-width: 576px){
@@ -41,8 +57,7 @@ section {
   .media{
     display: block;
   }
-  .style-accordion{
-    margin-top: 10%;
+  .style-card {
     width: 100%;
   }
 }

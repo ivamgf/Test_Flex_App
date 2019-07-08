@@ -1,6 +1,8 @@
 # Test_Flex_App
 Test Flex Contact Application Project
 
+![Logo Flex Contact. Fonte: https://www.flexcontact.com.br/.{w=90%}](Test_Flex_App/app-movies/src/assets/images/logo-flex.png)
+
 # AppMovies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.

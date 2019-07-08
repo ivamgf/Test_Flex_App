@@ -1,16 +1,13 @@
 <section>
 <ul class="list-group">
   <li class="list-group-item style-group">
-    <!-- Media top -->
-    <div class="media">
-      <div class="media-body style-text">
-        <h4>Lista de Filmes</h4>
-
-        <!-- Card Film -->        
+      <h4 class="style-media-title">Lista de Filmes</h4>
+        <div class="style-container">
+        <!-- Card Film -->
           <div class="card style-card" *ngFor="let film of films">
             <img class="card-img-top style-img-card" src="{{ film.poster }}" alt="Card image">
-            <div class="card-body">  
-              <h4 class="card-title style-title">{{ film.nome }}</h4>              
+            <div class="card-body">
+              <h4 class="card-title style-title">{{ film.nome }}</h4>
               <p class="style-card-text"><strong>Ano:</strong> {{ film.ano }}</p>
               <p class="style-card-text"><strong>Gênero:</strong> {{ film.genero }}</p>
               <p class="style-card-text"><strong>Diretor:</strong> {{ film.diretor }}</p>
@@ -18,9 +15,7 @@
             </div>
           </div>
         <!-- Card Film -->
-
-      </div>
-    </div>
+        </div>
   </li>
 </ul>
 </section>

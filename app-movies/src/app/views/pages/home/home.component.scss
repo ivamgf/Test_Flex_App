@@ -1,10 +1,9 @@
 section {
   Background-color: white
 }
-.style-group{
-  margin: 5%;
-  margin-left: 10%;
-  width: 80%;
+.style-group {
+  position: relative;
+  float: center;
 }
 .style-card-text {
   font-size: 12px;
@@ -18,23 +17,75 @@ section {
 }
 .style-card {
   position: relative;
-  display: inline-block;
   float: left;
   margin-right: 1%;
+  margin-top: 2%;
+  height: 700px;
 }
 .style-img-card {
   width: 100%;
+}
+.style-media-title {
+  text-align: center;
+}
+.style-container {
+  position: relative;
+}
+@media only screen and (min-width: 1200px) {
+  .style-text{
+    font-size: 10px;
+    margin-top: 2%;
+  }
+  .style-card {
+    width: 20%;
+    position: relative;
+    float: center;
+    height: 700px;
+  }
+  .style-container {
+    float: center;
+    position: relative;
+    margin-left: 15%;
+  }
+}
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+  .style-text{
+    font-size: 10px;
+    margin-top: 2%;
+  }
+  .style-card {
+    width: 20%;
+    position: relative;
+    float: center;
+    height: 700px;
+  }
+  .style-container {
+    float: center;
+    position: relative;
+    margin-left: 15%;
+  }
+  .style-title {
+    text-align: center;
+    font-size: 14px;
+  }
 }
 @media only screen and (max-width: 992px) and (min-width: 768px) {
   .style-text{
     font-size: 10px;
     margin-top: 2%;
   }
-  .media{
-    display: block;
-  }
   .style-card {
-    width: 25%;
+    width: 30%;
+    height: 700px;
+  }
+  .style-container {
+    float: center;
+    position: relative;
+    margin-left: 10%;
+  }
+  .style-title {
+    text-align: center;
+    font-size: 14px;
   }
 }
 @media only screen and (max-width: 768px) and (min-width: 576px) {
@@ -42,11 +93,17 @@ section {
     font-size: 10px;
     margin-top: 2%;
   }
-  .media{
-    display: block;
-  }
   .style-card {
-    width: 50%;
+    width: 30%;
+  }
+  .style-container {
+    float: center;
+    position: relative;
+    margin-left: 5%;
+  }
+  .style-title {
+    text-align: center;
+    font-size: 12px;
   }
 }
 @media only screen and (max-width: 576px){
@@ -54,10 +111,20 @@ section {
     font-size: 10px;
     margin-top: 2%;
   }
-  .media{
-    display: block;
-  }
   .style-card {
     width: 100%;
+  }
+  .style-group {
+    float: left;
+    padding-left: 0px;
+  }
+  .style-container {
+    float: center;
+    position: relative;
+    margin-left: 5%;
+  }
+  .style-title {
+    text-align: center;
+    font-size: 12px;
   }
 }
